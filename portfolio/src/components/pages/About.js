@@ -9,11 +9,11 @@ export default function About() {
 		<div className="min-vh-100">
 		  <div className="row m-2 p-3">
 			<div className="d-flex justify-content-center mb-3">
-			  <img src={myself} alt="me" style={styles.myimg} />
+			  <img alt="me"  />
 			</div>
 			<div
 			  className="d-flex justify-content-evenly text-center"
-			  style={styles.shadow}
+			  
 			>
 			  <p className="fs-4 p-2 d-flex justify-content-center">
 				Hello! <br />
