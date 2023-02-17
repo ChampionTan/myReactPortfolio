@@ -16,3 +16,4 @@ export default function Header ({handlePageChange, pages, currentPage}) {
 			</>
 	);
 }
+
